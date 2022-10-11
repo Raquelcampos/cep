@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/cep/static/js/main.d30d846c.js",
+    "index.html": "/cep/index.html",
+    "main.d30d846c.js.map": "/cep/static/js/main.d30d846c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d30d846c.js"
+  ]
+}
